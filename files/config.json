@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"986e0d08-b275-4dd3-9e75-f3094b36fa2a",
+                        "id":"d70a04bc-1f67-448c-a174-262de5c6e366",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -45,7 +45,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"986e0d08-b275-4dd3-9e75-f3094b36fa2a"
+                        "id":"d70a04bc-1f67-448c-a174-262de5c6e366"
                     }
                 ],
                 "decryption":"none"
@@ -62,7 +62,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"986e0d08-b275-4dd3-9e75-f3094b36fa2a",
+                        "id":"d70a04bc-1f67-448c-a174-262de5c6e366",
                         "level":0
                     }
                 ],
@@ -76,7 +76,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -92,7 +92,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"986e0d08-b275-4dd3-9e75-f3094b36fa2a",
+                        "id":"d70a04bc-1f67-448c-a174-262de5c6e366",
                         "alterId":0
                     }
                 ]
@@ -104,7 +104,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -120,7 +120,7 @@
             "settings":{
                 "clients":[
                     {
-                        "password":"986e0d08-b275-4dd3-9e75-f3094b36fa2a"
+                        "password":"d70a04bc-1f67-448c-a174-262de5c6e366"
                     }
                 ]
             },
@@ -132,7 +132,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -158,3 +158,4 @@
         }
     ]
 }
+
